@@ -1,0 +1,1 @@
+yarn processmd article/md/*.md --outputDir article/json/ --summaryOutput article/summary.json --markdownOptions '{\"html\":true}'
