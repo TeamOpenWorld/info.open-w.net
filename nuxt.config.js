@@ -58,7 +58,11 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    ['@nuxtjs/google-adsense', {
+      id: 'ca-pub-7860710257272145',
+      pageLevelAds: true
+    }]
   ],
 
   axios: {
