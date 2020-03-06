@@ -1,22 +1,12 @@
-# openworld-info-web
+## info.open-w.net
+TeamOpenWorldのお知らせサイトです。    
+運営に関するお知らせを掲載しています。
 
-> OpenWorld Info with Nuxt
+## LICENSE
+`dist/*` & `pages/*` & `article/*`: [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)     
+others: [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-## Build Setup
+## DONATE
+[Minato86.me - donate](minato86.me)
 
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+もしもお金がない場合、[Braveブラウザを導入](https://brave.com/min233)することで支援することができます。
