@@ -1099,7 +1099,7 @@
     webpack-node-externals "^1.7.2"
     webpackbar "^4.0.0"
 
-"@nuxtjs/axios@^5.9.5":
+"@nuxtjs/axios@5.9.5":
   version "5.9.5"
   resolved "https://registry.yarnpkg.com/@nuxtjs/axios/-/axios-5.9.5.tgz#5adc0acc4deb7e1d67ab7240c741a401a6c01823"
   integrity sha512-5sMsl5PbNSbAOou75wN2ztDAfGi6pU12zZQvfkDBz3s9KnKST/Azfc1FLw2Y8TR4UaDv074vt20oxK+z7AnH1A==
@@ -1110,7 +1110,7 @@
     consola "^2.11.3"
     defu "^1.0.0"
 
-"@nuxtjs/google-adsense@^1.1.3":
+"@nuxtjs/google-adsense@1.1.3":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@nuxtjs/google-adsense/-/google-adsense-1.1.3.tgz#cc8b83616e9cc19d9fb9ae77c7101137da532c16"
   integrity sha512-29gKidhkZWr+nAbAXumjEq/ETgUM6/WLMnTodI6dA0sWLVTD59F8OWjNoFj07mYxeW6TA1L3vSuJf/cXvGfdvA==
@@ -1414,7 +1414,7 @@ acorn-walk@^7.1.1:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-7.1.1.tgz#345f0dffad5c735e7373d2fec9a1023e6a44b83e"
   integrity sha512-wdlPY2tm/9XBr7QkKlq0WQVgiuGTX6YWPyRyBviSoScBuLfTVQhvwg6wJ369GJ/1nPfTLMfnrFIfjqVg6d+jQQ==
 
-acorn@^6.0.7, acorn@^6.2.1:
+acorn@^6.2.1:
   version "6.4.1"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
   integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
@@ -1785,7 +1785,7 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
-bootstrap-vue@^2.7.0:
+bootstrap-vue@2.7.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/bootstrap-vue/-/bootstrap-vue-2.7.0.tgz#83730a133888fb54e6f6ddbd0af9af741f15a270"
   integrity sha512-9DJwtQVFp+7hgKr8N4mjt/YHObep8SVG4wvCX/uKTaMeaNWcMAzxQ/bjFfYVDmf1sjfnWltw1Cqd+ilR+XS0FQ==
@@ -1796,7 +1796,7 @@ bootstrap-vue@^2.7.0:
     portal-vue "^2.1.7"
     vue-functional-data-merge "^3.1.0"
 
-"bootstrap@>=4.4.1 <5.0.0", bootstrap@^4.1.3:
+bootstrap@4.4.1, "bootstrap@>=4.4.1 <5.0.0":
   version "4.4.1"
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.4.1.tgz#8582960eea0c5cd2bede84d8b0baf3789c3e8b01"
   integrity sha512-tbx5cHubwE6e2ZG7nqM3g/FZ5PQEDMWmMGNrCUBVRPHXTJaH7CBDdsLeu3eCh3B1tzAxTnAbtmrzvWEvT2NNEA==
@@ -3499,7 +3499,7 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-gh-pages@^2.2.0:
+gh-pages@2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/gh-pages/-/gh-pages-2.2.0.tgz#74ebeaca8d2b9a11279dcbd4a39ddfff3e6caa24"
   integrity sha512-c+yPkNOPMFGNisYg9r4qvsMIjVYikJv7ImFOhPIVPt0+AcRUamZ7zkGRLHz7FKB0xrlZ+ddSOJsZv9XAFVXLmA==
@@ -4986,7 +4986,7 @@ num2fraction@^1.2.2:
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
 
-nuxt@^2.12.0:
+nuxt@2.12.0:
   version "2.12.0"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.12.0.tgz#b81794edc023352bd100532e5192f0d1b49ec67b"
   integrity sha512-odEBOWQ6QSYhal7R9hZxHidm1kpTc2PoDL3w8a541PRSyzZFfVnWla7fRXOyMANbzfO8U7wpwq++eia8vnBr0A==
@@ -6038,7 +6038,7 @@ process@^0.11.10:
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
   integrity sha1-czIwDoQBYb2j5podHZGn1LwW8YI=
 
-processmd@^4.5.0:
+processmd@4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/processmd/-/processmd-4.5.0.tgz#0a84af2a6ef0957c3e6ab05890b6c51e07c79bd2"
   integrity sha512-M1Va79t4kMKu8ZioW98QTyfmAAkIe2KB9mzPhsf6IVqUME1I6GjFepqbVLUP9vJsQDKQkNyISOeqpwUYZQURCg==
@@ -6138,7 +6138,7 @@ punycode@^2.1.0:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-push-dir@^0.4.1:
+push-dir@0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/push-dir/-/push-dir-0.4.1.tgz#29481eacd9c2106bbb7941db6d37d122a071ecb4"
   integrity sha1-KUgerNnCEGu7eUHbbTfRIqBx7LQ=
