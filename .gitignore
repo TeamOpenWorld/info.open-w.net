@@ -89,4 +89,4 @@ sw.*
 *.swp
 push.bat
 
-./dist
+dist/*
