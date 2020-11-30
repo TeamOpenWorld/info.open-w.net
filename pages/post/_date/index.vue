@@ -1,6 +1,5 @@
 <template>
     <div id="container">
-        <section id="header" v-html="resp"></section>
         <div class="alert alert-warning" role="alert">
             こちらのサイトの限界大会に関するコンテンツは、限界大会公式サイトに移転予定です。
         </div>
@@ -42,12 +41,9 @@
 <script>
 export default {
     async asyncData({ app, params }) {
-        let resp = await app.$axios.$get(
-            "https://open-w.net/assets/header/header.html"
-        );
         const body = await import(`~/article/json/${params.date}.json`);
 
-        return { body, resp };
+        return { body };
     },
     head() {
         return {
