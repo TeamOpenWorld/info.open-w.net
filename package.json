@@ -16,7 +16,7 @@
     "@nuxtjs/google-adsense": "1.1.3",
     "bootstrap": "4.5.2",
     "bootstrap-vue": "2.16.0",
-    "gh-pages": "3.1.0",
+    "gh-pages": "6.1.1",
     "nuxt": "2.14.1",
     "processmd": "4.5.0",
     "push-dir": "0.4.1"
